@@ -16,10 +16,10 @@ function Contact() {
       })
       .then(
         () => {
-          console.log("Message sent Successfully!");
+          alert("Message sent Successfully!");
         },
         (error) => {
-          console.log("Message FAILED...", error.text);
+          alert("Message FAILED...", error.text);
         }
       );
   };
