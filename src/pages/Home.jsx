@@ -26,7 +26,7 @@ function Home() {
         <div className="mt-12 mb-12 lg:mb-0">
           <button className=" transition-transform	duration-500 ease-in-out hover:-translate-y-2">
             <a
-              href="https://drive.google.com/file/d/1-pIc4bUJWDvwmFwY8LNKuPL2qWdLCGu3/view?usp=sharing"
+              href="https://drive.google.com/file/d/1NH__zwjeIj2NpkrqwImKPR38kJu_sec2/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="flex items-center px-6 py-2 text-2xl font-semibold rounded-full bg-blue-500 text-white hover:bg-blue-600"
